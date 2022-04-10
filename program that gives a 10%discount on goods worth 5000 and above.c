@@ -3,7 +3,7 @@
 
 int main()
 {
-    float Amount,discount,bal,amount;
+    float Amount,discount;
     
     printf("Enter Amount\n");
     scanf("%f",&Amount);
