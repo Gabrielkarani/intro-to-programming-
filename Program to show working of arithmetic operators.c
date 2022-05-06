@@ -1,4 +1,4 @@
-// Working of arithmetic operators
+// A program to show Working of arithmetic operators
 #include <stdio.h>
 int main()
 {
